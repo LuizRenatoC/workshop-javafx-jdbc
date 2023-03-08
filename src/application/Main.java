@@ -9,7 +9,7 @@ import javafx.scene.control.ScrollPane;
 import javafx.stage.Stage;
 
 public class Main extends Application {
-
+	
 	private static Scene mainScene;
 	
 	@Override
@@ -29,11 +29,11 @@ public class Main extends Application {
 			e.printStackTrace();
 		}
 	}
-	
+
 	public static Scene getMainScene() {
 		return mainScene;
 	}
-
+	
 	public static void main(String[] args) {
 		launch(args);
 	}
