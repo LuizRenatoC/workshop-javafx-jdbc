@@ -5,7 +5,7 @@
 depois prosseguir estudando, de forma confortável, as especificidades que desejar 
 
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LuizRenatoC/workshop-spring-boot-mongodb/blob/main/LICENCE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LuizRenatoC/workshop-javafx-jdbc/blob/main/LICENCE)
 
 ## Modelo conceitual
 ![dao2](https://user-images.githubusercontent.com/120049410/225132690-e5bb482b-2700-4b1f-8af7-1f63834a3732.png)
